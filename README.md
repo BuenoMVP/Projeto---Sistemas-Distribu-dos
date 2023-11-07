@@ -1,2 +1,2 @@
-# Projeto---Sistemas-Distribu-dos
+# Projeto---Sistemas-Distribuidos
 Aplicação de mensagens em tempo real.
